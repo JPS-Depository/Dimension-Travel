@@ -1,0 +1,3 @@
+Untuk behavior mobil tersimpan di prefabs 'triangle' disimpan di prefabs.
+
+adapun untuk behavior tombol kendali mobil aku pake package 'CrossPlatformInput'. aku simpan prefab-nya di 'Prefabs/UIComponents'
